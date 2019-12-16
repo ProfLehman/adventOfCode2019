@@ -1,0 +1,4 @@
+ArrayList line count: 27
+char loaded
+max rows: 27
+max columns: 27
