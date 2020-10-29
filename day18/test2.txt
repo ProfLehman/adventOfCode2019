@@ -1,0 +1,401 @@
+ArrayList line count: 81
+char loaded
+max rows: 81
+max columns: 81
+khMiGBcrlOLXjpPDbuSfQFTqZoJVn@NveUztswEYadxICWRHyKgmA
+storing k to k path:   0
+storing k to r path:   14
+storing k to h path:   58
+
+storing h to h path:   0
+storing h to M path:   7
+storing h to k path:   58
+
+storing M to M path:   0
+storing M to h path:   7
+storing M to O path:   28
+storing M to j path:   49
+
+storing i to i path:   0
+storing i to r path:   10
+storing i to X path:   55
+storing i to L path:   83
+
+storing G to G path:   0
+storing G to D path:   84
+storing G to c path:   145
+
+storing B to B path:   0
+storing B to l path:   5
+storing B to X path:   12
+
+storing c to c path:   0
+storing c to @ path:   84
+storing c to v path:   98
+storing c to V path:   103
+storing c to Q path:   113
+storing c to f path:   126
+storing c to G path:   145
+storing c to C path:   171
+storing c to z path:   178
+storing c to E path:   199
+storing c to s path:   204
+storing c to m path:   276
+storing c to H path:   301
+
+storing r to r path:   0
+storing r to i path:   10
+storing r to k path:   14
+storing r to X path:   49
+storing r to L path:   77
+
+storing l to l path:   0
+storing l to B path:   5
+storing l to p path:   14
+
+storing O to O path:   0
+storing O to j path:   23
+storing O to M path:   28
+
+storing L to L path:   0
+storing L to P path:   10
+storing L to X path:   66
+storing L to r path:   77
+storing L to i path:   83
+
+storing X to X path:   0
+storing X to B path:   12
+storing X to r path:   49
+storing X to i path:   55
+storing X to L path:   66
+
+storing j to j path:   0
+storing j to O path:   23
+storing j to S path:   37
+storing j to M path:   49
+storing j to q path:   84
+storing j to F path:   85
+
+storing p to p path:   0
+storing p to l path:   14
+
+storing P to P path:   0
+storing P to L path:   10
+
+storing D to D path:   0
+storing D to b path:   17
+storing D to G path:   84
+
+storing b to b path:   0
+storing b to D path:   17
+
+storing u to u path:   0
+storing u to S path:   7
+
+storing S to S path:   0
+storing S to u path:   7
+storing S to j path:   37
+storing S to q path:   65
+storing S to F path:   66
+
+storing f to f path:   0
+storing f to @ path:   58
+storing f to v path:   72
+storing f to V path:   77
+storing f to Q path:   115
+storing f to c path:   126
+storing f to C path:   145
+storing f to z path:   152
+storing f to E path:   173
+storing f to s path:   178
+storing f to m path:   250
+storing f to H path:   275
+
+storing Q to Q path:   0
+storing Q to Z path:   28
+storing Q to @ path:   73
+storing Q to v path:   87
+storing Q to V path:   92
+storing Q to c path:   113
+storing Q to f path:   115
+storing Q to C path:   160
+storing Q to z path:   167
+storing Q to E path:   188
+storing Q to s path:   193
+storing Q to m path:   265
+storing Q to H path:   290
+
+storing F to F path:   0
+storing F to q path:   5
+storing F to T path:   18
+storing F to S path:   66
+storing F to j path:   85
+
+storing T to T path:   0
+storing T to F path:   18
+storing T to n path:   19
+
+storing q to q path:   0
+storing q to F path:   5
+storing q to S path:   65
+storing q to j path:   84
+
+storing Z to Z path:   0
+storing Z to Q path:   28
+storing Z to J path:   60
+
+storing o to o path:   0
+storing o to J path:   3
+
+storing J to J path:   0
+storing J to o path:   3
+storing J to Z path:   60
+
+storing V to V path:   0
+storing V to n path:   7
+storing V to @ path:   21
+storing V to v path:   37
+storing V to f path:   77
+storing V to Q path:   92
+storing V to c path:   103
+storing V to C path:   110
+storing V to z path:   113
+storing V to E path:   138
+storing V to s path:   143
+storing V to m path:   211
+storing V to H path:   236
+
+storing n to n path:   0
+storing n to V path:   7
+storing n to T path:   19
+
+storing @ to @ path:   0
+storing @ to v path:   16
+storing @ to V path:   21
+storing @ to f path:   58
+storing @ to Q path:   73
+storing @ to c path:   84
+storing @ to C path:   89
+storing @ to z path:   94
+storing @ to E path:   117
+storing @ to s path:   122
+storing @ to m path:   192
+storing @ to H path:   217
+
+storing N to N path:   0
+storing N to t path:   7
+storing N to v path:   17
+
+storing v to v path:   0
+storing v to @ path:   16
+storing v to N path:   17
+storing v to V path:   37
+storing v to f path:   72
+storing v to C path:   81
+storing v to Q path:   87
+storing v to c path:   98
+storing v to z path:   108
+storing v to E path:   109
+storing v to s path:   114
+storing v to m path:   206
+storing v to H path:   231
+
+storing e to e path:   0
+storing e to z path:   14
+storing e to A path:   93
+
+storing U to U path:   0
+storing U to s path:   23
+storing U to a path:   35
+storing U to y path:   87
+storing U to W path:   114
+
+storing z to z path:   0
+storing z to e path:   14
+storing z to @ path:   94
+storing z to A path:   95
+storing z to v path:   108
+storing z to V path:   113
+storing z to f path:   152
+storing z to Q path:   167
+storing z to c path:   178
+storing z to C path:   181
+storing z to m path:   206
+storing z to E path:   209
+storing z to s path:   214
+storing z to H path:   231
+
+storing t to t path:   0
+storing t to N path:   7
+
+storing s to s path:   0
+storing s to E path:   7
+storing s to U path:   23
+storing s to v path:   114
+storing s to @ path:   122
+storing s to V path:   143
+storing s to C path:   151
+storing s to f path:   178
+storing s to Q path:   193
+storing s to c path:   204
+storing s to z path:   214
+storing s to m path:   312
+storing s to H path:   337
+
+storing w to w path:   0
+storing w to Y path:   11
+
+storing E to E path:   0
+storing E to s path:   7
+storing E to v path:   109
+storing E to @ path:   117
+storing E to V path:   138
+storing E to C path:   146
+storing E to f path:   173
+storing E to Q path:   188
+storing E to c path:   199
+storing E to z path:   209
+storing E to m path:   307
+storing E to H path:   332
+
+storing Y to Y path:   0
+storing Y to w path:   11
+storing Y to A path:   52
+
+storing a to a path:   0
+storing a to U path:   35
+storing a to y path:   68
+storing a to W path:   95
+
+storing d to d path:   0
+storing d to g path:   86
+
+storing x to x path:   0
+storing x to I path:   23
+
+storing I to I path:   0
+storing I to R path:   14
+storing I to x path:   23
+
+storing C to C path:   0
+storing C to v path:   81
+storing C to @ path:   89
+storing C to V path:   110
+storing C to f path:   145
+storing C to E path:   146
+storing C to s path:   151
+storing C to Q path:   160
+storing C to c path:   171
+storing C to z path:   181
+storing C to m path:   279
+storing C to H path:   304
+
+storing W to W path:   0
+storing W to K path:   8
+storing W to y path:   39
+storing W to a path:   95
+storing W to U path:   114
+
+storing R to R path:   0
+storing R to I path:   14
+storing R to K path:   16
+
+storing H to H path:   0
+storing H to g path:   3
+storing H to m path:   97
+storing H to @ path:   217
+storing H to v path:   231
+storing H to z path:   231
+storing H to V path:   236
+storing H to f path:   275
+storing H to Q path:   290
+storing H to c path:   301
+storing H to C path:   304
+storing H to E path:   332
+storing H to s path:   337
+
+storing y to y path:   0
+storing y to W path:   39
+storing y to a path:   68
+storing y to U path:   87
+
+storing K to K path:   0
+storing K to W path:   8
+storing K to R path:   16
+
+storing g to g path:   0
+storing g to H path:   3
+storing g to d path:   86
+
+storing m to m path:   0
+storing m to H path:   97
+storing m to @ path:   192
+storing m to v path:   206
+storing m to z path:   206
+storing m to V path:   211
+storing m to f path:   250
+storing m to Q path:   265
+storing m to c path:   276
+storing m to C path:   279
+storing m to E path:   307
+storing m to s path:   312
+
+storing A to A path:   0
+storing A to Y path:   52
+storing A to e path:   93
+storing A to z path:   95
+
+   k   h   M   i   G   B   c   r   l   O   L   X   j   p   P   D   b   u   S   f   Q   F   T   q   Z   o   J   V   n   @   N   v   e   U   z   t   s   w   E   Y   a   d   x   I   C   W   R   H   y   K   g   m   A
+k    0  58  -1  -1  -1  -1  -1  14  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+h   58   0   7  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+M   -1   7   0  -1  -1  -1  -1  -1  -1  28  -1  -1  49  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+i   -1  -1  -1   0  -1  -1  -1  10  -1  -1  83  55  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+G   -1  -1  -1  -1   0  -1 145  -1  -1  -1  -1  -1  -1  -1  -1  84  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+B   -1  -1  -1  -1  -1   0  -1  -1   5  -1  -1  12  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+c   -1  -1  -1  -1 145  -1   0  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 126 113  -1  -1  -1  -1  -1  -1 103  -1  84  -1  98  -1  -1 178  -1 204  -1 199  -1  -1  -1  -1  -1 171  -1  -1 301  -1  -1  -1 276  -1
+r   14  -1  -1  10  -1  -1  -1   0  -1  -1  77  49  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+l   -1  -1  -1  -1  -1   5  -1  -1   0  -1  -1  -1  -1  14  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+O   -1  -1  28  -1  -1  -1  -1  -1  -1   0  -1  -1  23  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+L   -1  -1  -1  83  -1  -1  -1  77  -1  -1   0  66  -1  -1  10  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+X   -1  -1  -1  55  -1  12  -1  49  -1  -1  66   0  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+j   -1  -1  49  -1  -1  -1  -1  -1  -1  23  -1  -1   0  -1  -1  -1  -1  -1  37  -1  -1  85  -1  84  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+p   -1  -1  -1  -1  -1  -1  -1  -1  14  -1  -1  -1  -1   0  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+P   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  10  -1  -1  -1   0  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+D   -1  -1  -1  -1  84  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  17  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+b   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  17   0  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+u   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0   7  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+S   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  37  -1  -1  -1  -1   7   0  -1  -1  66  -1  65  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+f   -1  -1  -1  -1  -1  -1 126  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0 115  -1  -1  -1  -1  -1  -1  77  -1  58  -1  72  -1  -1 152  -1 178  -1 173  -1  -1  -1  -1  -1 145  -1  -1 275  -1  -1  -1 250  -1
+Q   -1  -1  -1  -1  -1  -1 113  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 115   0  -1  -1  -1  28  -1  -1  92  -1  73  -1  87  -1  -1 167  -1 193  -1 188  -1  -1  -1  -1  -1 160  -1  -1 290  -1  -1  -1 265  -1
+F   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  85  -1  -1  -1  -1  -1  66  -1  -1   0  18   5  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+T   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  18   0  -1  -1  -1  -1  -1  19  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+q   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  84  -1  -1  -1  -1  -1  65  -1  -1   5  -1   0  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+Z   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  28  -1  -1  -1   0  -1  60  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+o   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0   3  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+J   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  60   3   0  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+V   -1  -1  -1  -1  -1  -1 103  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  77  92  -1  -1  -1  -1  -1  -1   0   7  21  -1  37  -1  -1 113  -1 143  -1 138  -1  -1  -1  -1  -1 110  -1  -1 236  -1  -1  -1 211  -1
+n   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  19  -1  -1  -1  -1   7   0  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+@   -1  -1  -1  -1  -1  -1  84  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  58  73  -1  -1  -1  -1  -1  -1  21  -1   0  -1  16  -1  -1  94  -1 122  -1 117  -1  -1  -1  -1  -1  89  -1  -1 217  -1  -1  -1 192  -1
+N   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  17  -1  -1  -1   7  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+v   -1  -1  -1  -1  -1  -1  98  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  72  87  -1  -1  -1  -1  -1  -1  37  -1  16  17   0  -1  -1 108  -1 114  -1 109  -1  -1  -1  -1  -1  81  -1  -1 231  -1  -1  -1 206  -1
+e   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  -1  14  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  93
+U   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  -1  -1  23  -1  -1  -1  35  -1  -1  -1  -1 114  -1  -1  87  -1  -1  -1  -1
+z   -1  -1  -1  -1  -1  -1 178  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 152 167  -1  -1  -1  -1  -1  -1 113  -1  94  -1 108  14  -1   0  -1 214  -1 209  -1  -1  -1  -1  -1 181  -1  -1 231  -1  -1  -1 206  95
+t   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   7  -1  -1  -1  -1   0  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+s   -1  -1  -1  -1  -1  -1 204  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 178 193  -1  -1  -1  -1  -1  -1 143  -1 122  -1 114  -1  23 214  -1   0  -1   7  -1  -1  -1  -1  -1 151  -1  -1 337  -1  -1  -1 312  -1
+w   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  -1  11  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+E   -1  -1  -1  -1  -1  -1 199  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 173 188  -1  -1  -1  -1  -1  -1 138  -1 117  -1 109  -1  -1 209  -1   7  -1   0  -1  -1  -1  -1  -1 146  -1  -1 332  -1  -1  -1 307  -1
+Y   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  11  -1   0  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  52
+a   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  35  -1  -1  -1  -1  -1  -1   0  -1  -1  -1  -1  95  -1  -1  68  -1  -1  -1  -1
+d   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  -1  -1  -1  -1  -1  -1  -1  -1  86  -1  -1
+x   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  23  -1  -1  -1  -1  -1  -1  -1  -1  -1
+I   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  23   0  -1  -1  14  -1  -1  -1  -1  -1  -1
+C   -1  -1  -1  -1  -1  -1 171  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 145 160  -1  -1  -1  -1  -1  -1 110  -1  89  -1  81  -1  -1 181  -1 151  -1 146  -1  -1  -1  -1  -1   0  -1  -1 304  -1  -1  -1 279  -1
+W   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 114  -1  -1  -1  -1  -1  -1  95  -1  -1  -1  -1   0  -1  -1  39   8  -1  -1  -1
+R   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  14  -1  -1   0  -1  -1  16  -1  -1  -1
+H   -1  -1  -1  -1  -1  -1 301  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 275 290  -1  -1  -1  -1  -1  -1 236  -1 217  -1 231  -1  -1 231  -1 337  -1 332  -1  -1  -1  -1  -1 304  -1  -1   0  -1  -1   3  97  -1
+y   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  87  -1  -1  -1  -1  -1  -1  68  -1  -1  -1  -1  39  -1  -1   0  -1  -1  -1  -1
+K   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   8  16  -1  -1   0  -1  -1  -1
+g   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  86  -1  -1  -1  -1  -1   3  -1  -1   0  -1  -1
+m   -1  -1  -1  -1  -1  -1 276  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 250 265  -1  -1  -1  -1  -1  -1 211  -1 192  -1 206  -1  -1 206  -1 312  -1 307  -1  -1  -1  -1  -1 279  -1  -1  97  -1  -1  -1   0  -1
+A   -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  93  -1  95  -1  -1  -1  -1  52  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0

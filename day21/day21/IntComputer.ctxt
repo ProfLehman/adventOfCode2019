@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=IntComputer
+comment1.params=d
+comment1.target=IntComputer(long[])
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=void\ part1()
+comment4.params=
+comment4.target=void\ process()
+comment5.params=rw\ pos\ ABC
+comment5.target=long\ parm(char,\ int,\ java.lang.String)
+comment6.params=p
+comment6.target=long\ get(long)
+comment7.params=a
+comment7.target=void\ display(long)
+numComments=8

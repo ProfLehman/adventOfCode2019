@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=adventLibrary
+comment1.params=fn
+comment1.target=java.util.ArrayList\ readData(java.lang.String)
+comment2.params=al
+comment2.target=int[]\ intArray1(java.util.ArrayList)
+comment3.params=al
+comment3.target=int[]\ intArray1CSV(java.util.ArrayList)
+comment4.params=al
+comment4.target=long[]\ longArray1CSV(java.util.ArrayList)
+comment5.params=al
+comment5.target=char[][]\ charArray2(java.util.ArrayList)
+comment6.params=grid
+comment6.target=void\ show(int[])
+comment7.params=grid
+comment7.target=void\ show(char[][])
+numComments=8
