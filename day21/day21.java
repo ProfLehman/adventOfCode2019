@@ -24,7 +24,7 @@ public class day21
         //get new instance of IntComputer
         IntComputer amp1 = new IntComputer( data1);
         amp1.part1();
-        System.out.println( "Part 1 - Done" );
+        System.out.println( "Part 2 - Done" );
 
     }//test
 

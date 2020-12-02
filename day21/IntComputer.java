@@ -66,24 +66,47 @@ public class IntComputer
     public void part1()
     {
         String prg = "";
-        
-        prg += "";
+       
+	   
+
 		
-        prg += "OR D Jx";  //DH
-        prg += "AND H Jx";
-        
-        prg += "OR D Tx";  //DI
-        prg += "AND I Tx";
-        prg += "OR T Jx";
-        
-        //prg += "NOT A Tx";  //~ABC
-        //prg += "AND B Tx";
-        //prg += "AND C Tx";
-        //prg += "OR T Jx";
-        
+		//~a
+		prg += "NOT A Jx";  
+		
+		//dH
+		prg += "NOT C Tx";
+		prg += "AND D Tx";
+		prg += "AND H Tx";
+		prg += "OR T Jx";
+
+		prg += "NOT B Tx";
+		prg += "AND D Tx";
+		prg += "OR T Jx";
+		
         prg += "RUNx";
         prg += "";
         
+		    
+     //  WORKED FOR PART 1
+     //*  prg += "";
+	 /*
+        prg += "NOT A Jx";  //~A~BD
+        prg += "NOT B Tx";
+        prg += "AND T Jx"; 
+        prg += "AND D Jx";
+        
+        prg += "NOT C Tx";  //A~CD
+        prg += "AND A Tx";
+        prg += "AND D Tx";
+        prg += "OR T Jx";
+        
+        prg += "NOT A Tx";  //~ACD
+        prg += "AND C Tx";
+        prg += "AND D Tx";
+        prg += "OR T Jx";
+        
+        prg += "WALKx";
+     */
         
         
         
@@ -300,9 +323,9 @@ public class IntComputer
 
     public void display( long a )
     {
-        //System.out.println( a );
-        //System.out.println( "d: " + (int) a + " " + (char)a );
-        System.out.print( (char)a );
+        System.out.println( a );
+        System.out.println( "d: " + (int) a + " " + (char)a );
+        //System.out.print( (char)a );
         //if (a == 1L)
         //  System.out.print("#");
         //else
@@ -331,3 +354,4 @@ public class IntComputer
      */
 
 }//class
+
