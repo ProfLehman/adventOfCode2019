@@ -27,7 +27,7 @@ public class day22b
 		long deckSize = 119315717514047L;
 		//long deckSize = 10007L;
 
-		long p = 2019;
+		long p = 2020;
 		
 
 
@@ -45,12 +45,24 @@ public class day22b
 long r = 0L;
 
 while (r < 101741582076661L)
+//while (r < 1L)
 {
 	
+	
 	//see if need to perform inner loop
-	if (hm.get(p) != null)
+	/*
+	if ( hm.get(p) != null )
 	{
 		p = (long) hm.get(p);
+		System.out.println( hm.size() );
+	}
+	*/
+	
+	/*
+	Object temp = hm.get(p); 
+	if ( temp != null )
+	{
+		p = (long) temp;
 		System.out.println( hm.size() );
 	}
 	else		
@@ -101,11 +113,13 @@ while (r < 101741582076661L)
 			
 			//System.out.println( "in-loop: p at position: " + p);
 			
+			//System.out.println(p);
+			
 			//store
 			if (hm.get(pStart) == null)
 			{
 				hm.put(pStart, p);
-				System.out.println( "Adding pStart  => " + p + "   hm size "  + hm.size());				
+				//System.out.println( "Adding pStart  => " + p + "   hm size "  + hm.size());				
 			}
 			//else
 				//System.out.println( "Found pStart  => " + p );
@@ -114,6 +128,12 @@ while (r < 101741582076661L)
 		}//inner while loop
 
 	}//if for inner loop
+	
+	*/
+	if (r % 10000000000L == 0)
+		System.out.println(r);
+	
+	
 	
 	r = r + 1;
 }//outer while loop
